@@ -9,3 +9,7 @@ This repository is created to demonstrate my understanding of Git and GitHub thr
 - `git commit` - Save changes to the repository history
 - `git push` - Upload local changes to GitHub
 - `git pull` - Get the latest changes from GitHub
+
+- ## My Goals
+
+My goal is to build strong programming and version control skills and use GitHub to manage my projects, collaborate with others, and showcase my technical work.
