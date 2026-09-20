@@ -13,3 +13,7 @@ This repository is created to demonstrate my understanding of Git and GitHub thr
 - ## My Goals
 
 My goal is to build strong programming and version control skills and use GitHub to manage my projects, collaborate with others, and showcase my technical work.
+
+# About Me
+
+Hello! I am Naga Sudhamani, a B.Tech student interested in Artificial Intelligence and Machine Learning, Python programming, and software development. I enjoy building technology-based projects, exploring new ideas, and using my technical skills to solve real-world problems. This repository demonstrates my work with Git and GitHub and my understanding of version control.
